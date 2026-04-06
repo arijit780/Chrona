@@ -1,0 +1,5 @@
+{"event_id":"E1","event_time":12000000,"system_time":100000000,"ingest_seq":1,"payload":{"key":"A","value":5}}
+{"event_id":"E2","event_time":18000000,"system_time":101000000,"ingest_seq":2,"payload":{"key":"A","value":2}}
+{"event_id":"E3","event_time":14000000,"system_time":110000000,"ingest_seq":3,"payload":{"key":"A","value":7}}
+{"event_id":"E4","event_time":11000000,"system_time":120000000,"ingest_seq":4,"payload":{"key":"A","value":3}}
+

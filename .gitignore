@@ -1,0 +1,22 @@
+# Build
+build/
+cmake-build-*/
+
+# Symlinked compile DB
+compile_commands.json
+
+# Editor / IDE
+.cache/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Snapshots / runtime output
+snapshots/
+*.jsonl.out
